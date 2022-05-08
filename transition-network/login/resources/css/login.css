@@ -1,12 +1,12 @@
 /* Patternfly CSS places a "bg-login.jpg" as the background on this ".login-pf" class.
-   This clashes with the "keycloak-bg.png' background defined on the body below.
+   This clashes with the "transition-bg.png' background defined on the body below.
    Therefore the Patternfly background must be set to none. */
 .login-pf {
     background: none;
 }
 
 .login-pf body {
-    background: url("../img/keycloak-bg.png") no-repeat center center fixed;
+    background: url("../img/transition-bg.jpg") no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 }
@@ -72,7 +72,7 @@ a#kc-current-locale-link::after {
 }
 
 div.kc-logo-text {
-    background-image: url(../img/keycloak-logo-text.png);
+    background-image: url(../img/transition-logo-text.png);
     background-repeat: no-repeat;
     height: 63px;
     width: 300px;
