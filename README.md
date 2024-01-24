@@ -1,9 +1,8 @@
 
-```
 # V2 is based on
 [https://github.com/lukin/keywind](https://github.com/lukin/keywind)
 
-Download and extract the .Zip
+Download and extract the .Zip in the Zip you will also find some video guides
 
 # Applying a Keycloak Theme Using the Theme Folder
 
